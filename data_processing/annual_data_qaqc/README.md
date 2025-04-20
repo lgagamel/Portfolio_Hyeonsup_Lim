@@ -1,6 +1,6 @@
 # 🛠️ Automated QA/QC Example for FAF5 Annual Data
 
-This project demonstrates one of the many automated QA/QC modules developed for the **Freight Analysis Framework (FAF5)** project. These tools perform large-scale consistency and validation checks across multiple freight flow datasets before public release.
+This project demonstrates one of the many automated QA/QC modules developed for the **[Freight Analysis Framework (FAF5)](https://faf.ornl.gov/faf5/)** project. These tools perform large-scale consistency and validation checks across multiple freight flow datasets before public release.
 
 🧠 This example, combined with other validation scripts not included here, has reduced manual QA/QC processing time by **around 80%**, streamlining one of the most time-consuming parts of the FAF data release cycle.
 
