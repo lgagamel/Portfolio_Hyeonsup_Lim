@@ -59,7 +59,7 @@ bayesian_data_fusion_cav/
 - Position estimation R² exceeded 0.98 after sufficient learning iterations.
 
 📘 **Paper**:  
-[IFIP/IEEE Paper PDF]([paper/2021035529.pdf](https://ieeexplore.ieee.org/document/9464040))
+[2021 IFIP/IEEE Paper PDF](https://ieeexplore.ieee.org/document/9464040)
 
 📄 **Presentation**:  
 [2021 IEEE Poster PDF](presentation/2021_IEEE_Bayesian_Approach_Error_Distribution_Estimation.pdf)
