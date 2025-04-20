@@ -15,7 +15,7 @@ These projects demonstrate advanced modeling using Python, statistical learning,
 - [Freight Generation ML Model](modeling/freight_generation_model/)  
   Predicting industry-specific freight volumes using Random Forest and XGBoost (30% RMSE reduction).
 
-- [Supply Chain Forecasting under Disruption](modeling/multi_output_chain_forecasting/)  
+- [Multi-Output Chaining for Time Series Forecasting of U.S. Imports/Exports](modeling/multi_output_chain_forecasting/)  
   Multi-output SARIMAX time series model to predict cascading impacts of global events, such as Russia's invasion of Ukraine.
 
 - [License Plate Matching with Self-Learning](modeling/self-learning_license_plate_matching/)  
