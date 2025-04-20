@@ -68,6 +68,9 @@ petroleum_consumption_model/
 - 🧪 R²-based model selection for Voronoi exponent β
 - ✅ Final output calibrated to match **EIA state totals exactly**
 
+📄 **Presentation**:  
+[2019 International Visualization in Transportation Symposium (PDF)](presentation/Estimating Petroleum Product Consumption - Hyeonsup Lim.pdf)
+
 ---
 
 ## 🛠 Tools Used
