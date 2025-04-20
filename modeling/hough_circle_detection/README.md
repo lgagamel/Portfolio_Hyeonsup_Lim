@@ -69,7 +69,7 @@ petroleum_consumption_model/
 - ✅ Final output calibrated to match **EIA state totals exactly**
 
 📄 **Presentation**:  
-[2019 International Visualization in Transportation Symposium (PDF)](presentation/Estimating Petroleum Product Consumption - Hyeonsup Lim.pdf)
+[2019 International Visualization in Transportation Symposium (PDF)](presentation/Estimating_Petroleum_Product_Consumption.pdf)
 
 ---
 
