@@ -1,0 +1,64 @@
+﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="Route.BongBong.Store.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Route.BongBong.Store</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <%--<webopt:bundlereference runat="server" path="~/Content/css" />--%>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9TVXTCKBTE">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-9TVXTCKBTE');
+    </script>
+</head>
+<body>
+    <form runat="server">
+        <div class="w3-bar w3-black">
+            <a runat="server" href="~/" class="w3-bar-item w3-button">Route.BongBong</a>
+            <%--<a runat="server" href="~/TopRoutes" class="w3-bar-item w3-button">Top Routes</a>--%>
+            <a runat="server" href="~/How-to-Use" class="w3-bar-item w3-button">How-to-Use</a>
+            <a runat="server" href="~/Contact" class="w3-bar-item w3-button">Contact</a>
+            <a runat="server" href="~/Terms-and-Conditions" class="w3-bar-item w3-button">Terms & Conditions</a>
+            <a runat="server" href="~/Privacy-Policy" class="w3-bar-item w3-button">Privacy Policy</a>
+            
+        </div>
+
+        <div class="w3-container">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>
+                    <a runat="server" href="~/">Route.BongBong</a>
+                    is free to use, but we do not take any responsibility for the consequences of our estimated optimal routes. 
+                    Thank you. 
+                    <span id="siteseal">
+                        <script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=tVLq03BUw8WKaWzfnlEzQVtYQ3xVYrrJ4epRDAEkIELHuQDtDhNF8GIFeVyZ"></script>
+                    </span>
+                </p>
+
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
+

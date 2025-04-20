@@ -1,0 +1,5 @@
+origin_FAF,destination_FAF,total
+FAF1,FAF1,80
+FAF1,FAF2,20
+FAF2,FAF1,120
+FAF2,FAF2,180
