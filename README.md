@@ -1,6 +1,6 @@
 # 🚀 Hyeonsup Lim – Transportation Data Scientist
 
-I'm a data scientist with a Ph.D. in Transportation Engineering and an M.S. in Statistics, passionate about using **modeling**, **data processing automation**, and **tool development** to solve real-world problems in freight, mobility, and connected vehicle systems. My work combines rigorous ML methods with hands-on implementation to support decision-making for government and industry.
+I'm a transportation data scientist with a Ph.D. in Transportation Engineering and an M.S. in Statistics, passionate about using **modeling**, **data processing automation**, and **tool development** to solve real-world problems in freight, mobility, and connected vehicle systems. My work combines rigorous ML methods with hands-on implementation to support decision-making for government and industry.
 
 📫 **Email**: hslim8211@gmail.com  
 📍 **Location**: Buford, GA | Permanent U.S. Resident  
