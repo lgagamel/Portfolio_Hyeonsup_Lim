@@ -30,7 +30,7 @@ def make_folders(dir_list):
         if not os.path.exists(tmp_dir):
             os.makedirs(tmp_dir)
             
-def get_googlemap(center, api_key = "AIzaSyBdrT7Ywus8fd7oudhxO-wzvZYmjEAgsEA", zoom = 16, size = "1600x1600", maptype = "satellite"):
+def get_googlemap(center, api_key = "XXXX", zoom = 16, size = "1600x1600", maptype = "satellite"):
     temp_url = "https://maps.googleapis.com/maps/api/staticmap?" 
     temp_url = temp_url + "center=" + center + "&zoom=" + str(zoom) 
     temp_url = temp_url + "&size=" + size + "&maptype=" + maptype 
